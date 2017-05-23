@@ -32,6 +32,9 @@ header p{
 	text-align: center;
 	color: #fff;
 }
+header p a{
+	color: #fff;
+}
 header img{
 	vertical-align: middle;
 	margin-left: 0.125rem;
